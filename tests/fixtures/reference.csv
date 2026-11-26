@@ -1,0 +1,8 @@
+id,tipe,nama,nama_alternatif,deskripsi,bagian_dari,lintang,bujur,situs_web,qid,sumber,kurator,catatan
+PulauSumatera,Pulau,Pulau Sumatera,Sumatera|Sumatra,,,,,,,https://id.wikipedia.org/wiki/Sumatra,Charles,fixture
+PulauBali,Pulau,Pulau Bali,,,,,,,,https://id.wikipedia.org/wiki/Pulau_Bali,Charles,fixture
+SumateraUtara,Provinsi,Sumatera Utara,Sumut,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Sumatera_Utara,Charles,fixture
+Bali,Provinsi,Bali,,,PulauBali,,,,,https://id.wikipedia.org/wiki/Bali,Charles,fixture
+KotaMedan,Kota,Kota Medan,Medan,,SumateraUtara,,,,,https://id.wikipedia.org/wiki/Kota_Medan,Charles,fixture
+KotaGunungsitoli,Kota,Kota Gunungsitoli,Gunungsitoli,,SumateraUtara,,,,,https://id.wikipedia.org/wiki/Kota_Gunungsitoli,Charles,fixture
+TokohX,Tokoh,Tokoh X,,,,,,,,urn:fixture,fixture,"rekaan, uji domain/range plan §5.5"

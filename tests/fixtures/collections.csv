@@ -1,0 +1,3 @@
+id,nama,nama_alternatif,jenis,deskripsi,dimiliki_oleh,berasal_dari,dibuat_oleh,terkait_tokoh,menggambarkan,bahan,tahun_pembuatan,sumber,kurator,catatan
+KerisBali,Keris Bali,,Senjata tradisional,,MuseumNegeriSumut,Bali,,,,,,urn:fixture,fixture,asal langsung provinsi; harapan provinsi = Bali
+UlosNias,Ulos Nias,,Tekstil,,MuseumNegeriSumut,KotaGunungsitoli,,,,,,urn:fixture,fixture,asal lewat kota; harapan provinsi = SumateraUtara

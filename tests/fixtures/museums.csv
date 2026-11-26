@@ -1,0 +1,5 @@
+id,nama,nama_alternatif,jenis,deskripsi,berlokasi_di,gambar,alamat,lintang,bujur,tahun_berdiri,didirikan_oleh,organisasi,terkait_dengan,jam_buka,harga_tiket,situs_web,kode_museum,qid,sumber,kurator,catatan
+MuseumNegeriSumut,Museum Negeri Provinsi Sumatera Utara,,Museum umum|Museum sejarah,Fixture: museum dengan gambar dan dua jenis.,KotaMedan,https://upload.wikimedia.org/fixture/museum-negeri-sumut.jpg,,,,,TokohX,,,,,,,,urn:fixture,fixture,"test_detail 1,3; plan §5.5 domain/range"
+MuseumTanpaGambar,Museum Tanpa Gambar,,Museum umum,Fixture: museum tanpa gambar dan tanpa koleksi.,KotaMedan,,,,,,,,,,,,,,urn:fixture,fixture,"test_detail 2,4,5"
+MuseumA,Museum A,,Museum sejarah,Fixture.,KotaMedan,,,,,,,,MuseumB,,,,,,urn:fixture,fixture,"plan §5.5 SymmetricProperty; test_detail 6,7"
+MuseumB,Museum B,,Museum seni,Fixture.,KotaGunungsitoli,,,,,,,,,,,,,,urn:fixture,fixture,plan §5.5 SymmetricProperty

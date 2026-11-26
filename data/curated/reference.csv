@@ -1,0 +1,17 @@
+id,tipe,nama,nama_alternatif,deskripsi,bagian_dari,lintang,bujur,situs_web,qid,sumber,kurator,catatan
+PulauSumatera,Pulau,Pulau Sumatera,Sumatera|Sumatra,,,,,,,https://id.wikipedia.org/wiki/Sumatra,Charles,benih; QID diisi saat QA gelombang 1
+PulauBali,Pulau,Pulau Bali,,,,,,,,https://id.wikipedia.org/wiki/Pulau_Bali,Charles,di luar Sumatera; dibutuhkan uji asal koleksi (plan §6.1); benih; QID diisi saat QA gelombang 1
+Aceh,Provinsi,Aceh,,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Aceh,Charles,benih; QID diisi saat QA gelombang 1
+SumateraUtara,Provinsi,Sumatera Utara,Sumut,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Sumatera_Utara,Charles,benih; QID diisi saat QA gelombang 1
+SumateraBarat,Provinsi,Sumatera Barat,Sumbar,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Sumatera_Barat,Charles,benih; QID diisi saat QA gelombang 1
+Riau,Provinsi,Riau,,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Riau,Charles,benih; QID diisi saat QA gelombang 1
+Jambi,Provinsi,Jambi,,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Jambi,Charles,benih; QID diisi saat QA gelombang 1
+SumateraSelatan,Provinsi,Sumatera Selatan,Sumsel,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Sumatera_Selatan,Charles,benih; QID diisi saat QA gelombang 1
+Bengkulu,Provinsi,Bengkulu,,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Bengkulu,Charles,benih; QID diisi saat QA gelombang 1
+Lampung,Provinsi,Lampung,,,PulauSumatera,,,,,https://id.wikipedia.org/wiki/Lampung,Charles,benih; QID diisi saat QA gelombang 1
+KepulauanRiau,Provinsi,Kepulauan Riau,Kepri,,,,,,,https://id.wikipedia.org/wiki/Kepulauan_Riau,Charles,bagian_dari sengaja kosong: tidak terletak di Pulau Sumatera; menunggu keputusan Alvin (SKEMA §10 butir 2); benih; QID diisi saat QA gelombang 1
+KepulauanBangkaBelitung,Provinsi,Kepulauan Bangka Belitung,Babel|Bangka Belitung,,,,,,,https://id.wikipedia.org/wiki/Kepulauan_Bangka_Belitung,Charles,bagian_dari sengaja kosong: tidak terletak di Pulau Sumatera; menunggu keputusan Alvin (SKEMA §10 butir 2); benih; QID diisi saat QA gelombang 1
+Bali,Provinsi,Bali,,,PulauBali,,,,,https://id.wikipedia.org/wiki/Bali,Charles,di luar Sumatera; dibutuhkan uji asal koleksi (plan §6.1); benih; QID diisi saat QA gelombang 1
+KotaMedan,Kota,Kota Medan,Medan,,SumateraUtara,,,,,https://id.wikipedia.org/wiki/Kota_Medan,Charles,benih; QID diisi saat QA gelombang 1
+KotaGunungsitoli,Kota,Kota Gunungsitoli,Gunungsitoli,,SumateraUtara,,,,,https://id.wikipedia.org/wiki/Kota_Gunungsitoli,Charles,alias Nias tidak dipasang di sini (SKEMA §10 butir 3); benih; QID diisi saat QA gelombang 1
+KabupatenNias,Kabupaten,Kabupaten Nias,Nias,,SumateraUtara,,,,,https://id.wikipedia.org/wiki/Kabupaten_Nias,Charles,benih; QID diisi saat QA gelombang 1
